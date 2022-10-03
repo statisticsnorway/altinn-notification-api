@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+   <SendStandaloneNotificationBasicV3Response xmlns="http://www.altinn.no/services/ServiceEngine/Notification/2010/10">
+         <SendStandaloneNotificationV3Result xmlns:b="http://schemas.altinn.no/services/ServiceEngine/Notification/2015/06" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+            <b:NotificationResult>
+               <b:EndPoints>
+                  <b:EndPointResult>
+                     <b:Name>BARSTADVIK OG MYSEN REGNSKAP</b:Name>
+                     <b:ReceiverAddress>rve@ssb.no</b:ReceiverAddress>
+                     <b:RetrieveFromProfile i:nil="true"/>
+                     <b:TransportType>Email</b:TransportType>
+                  </b:EndPointResult>
+                  <b:EndPointResult>
+                     <b:Name>STINA HÅKONSEN</b:Name>
+                     <b:ReceiverAddress>rvessb@gmail.com</b:ReceiverAddress>
+                     <b:RetrieveFromProfile i:nil="true"/>
+                     <b:TransportType>Email</b:TransportType>
+                  </b:EndPointResult>
+               </b:EndPoints>
+               <b:NotificationType>SSB_DIG_Tilpasset_uten_revarsling_epost_sms</b:NotificationType>
+               <b:ReporteeNumber>910409344</b:ReporteeNumber>
+            </b:NotificationResult>
+         </SendStandaloneNotificationV3Result>
+      </SendStandaloneNotificationBasicV3Response>

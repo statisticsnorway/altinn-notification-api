@@ -15,7 +15,7 @@
 	<properties>
         <java.version>1.8</java.version>
 		<main.basedir>${basedir}/../..</main.basedir>
-        <cxf.version>2.7.2</cxf.version>
+        <cxf.version>2.7.4</cxf.version>
         <maven.javadoc.skip>true</maven.javadoc.skip>
         <altinn.correspondence.domene.version>2.4</altinn.correspondence.domene.version>
         <log4j2.version>2.15.0</log4j2.version>
